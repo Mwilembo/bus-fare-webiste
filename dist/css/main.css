@@ -1,0 +1,106 @@
+table th td {
+  border: 1px solid;
+  border-color: black;
+}
+
+table {
+  text-align: center;
+  width: 50%;
+  border-collapse: collapse;
+}
+
+div.wrap {
+  width: 100%;
+}
+
+body {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 400;
+}
+
+div.col-1 {
+  display: grid;
+  grid-gap: 20px 10px;
+  padding: 2rem;
+  margin: 1rem;
+  background-color: #023047;
+}
+
+div.col-2 {
+  display: grid;
+  grid-gap: 20px 10px;
+  padding: 2rem;
+  margin: 1rem;
+  background-color: #023047;
+}
+
+div.col-3 {
+  display: grid;
+  grid-gap: 20px 10px;
+  padding: 2rem;
+  margin: 1rem;
+  background-color: #023047;
+}
+
+div.col-4 {
+  display: grid;
+  grid-gap: 20px 10px;
+  padding: 2rem;
+  margin: 1rem;
+  background-color: #023047;
+}
+
+div.col-5 {
+  display: grid;
+  grid-gap: 20px 10px;
+  padding: 2rem;
+  margin: 1rem;
+  background-color: #023047;
+}
+
+div.col-6 {
+  display: grid;
+  grid-gap: 20px 10px;
+  padding: 2rem;
+  margin: 1rem;
+  background-color: #023047;
+}
+
+div.col-7 {
+  display: grid;
+  grid-gap: 20px 10px;
+  padding: 2rem;
+  margin: 1rem;
+  background-color: #023047;
+}
+
+div.col-8 {
+  display: grid;
+  grid-gap: 20px 10px;
+  padding: 2rem;
+  margin: 1rem;
+  background-color: #023047;
+}
+
+div.col-9 {
+  display: grid;
+  grid-gap: 20px 10px;
+  padding: 2rem;
+  margin: 1rem;
+  background-color: #023047;
+}
+
+div.col-10 {
+  display: grid;
+  grid-gap: 20px 10px;
+  padding: 2rem;
+  margin: 1rem;
+  background-color: #023047;
+}/*# sourceMappingURL=main.css.map */
